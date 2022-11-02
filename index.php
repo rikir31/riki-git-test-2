@@ -11,6 +11,10 @@
 <body>
     <h1>Hallo Pa Asep!</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia optio, libero ducimus magni mollitia ipsa reprehenderit omnis blanditiis vel delectus vitae eveniet pariatur, sequi error nesciunt porro obcaecati, quod nobis!</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
